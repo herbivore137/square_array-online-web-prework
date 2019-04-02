@@ -11,7 +11,7 @@ end
 =end
 
 def square_array(arr)
-  arr.map |num| num * num
+  arr.collect |num| num * num
   arr
 end
 
