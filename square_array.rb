@@ -1,3 +1,4 @@
+=begin
 def square_array(array)
   new_array = []
   index = 0 
@@ -6,4 +7,9 @@ def square_array(array)
     index += 1 
   end
   new_array
+end
+=end
+
+def square_array(arr)
+  
 end
